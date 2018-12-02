@@ -1,0 +1,2 @@
+# GenLootFilter
+PoE Loot Filter
